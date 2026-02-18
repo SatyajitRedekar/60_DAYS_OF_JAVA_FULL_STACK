@@ -1,6 +1,6 @@
-package com.learnign.java.datatypes;
+package com.learning.java.Day_1;
 
-class Main{
+class DataTypes{
     public static void main(String[] args){
         System.out.println("INTEGRAL NUMBERS");
         System.out.println();

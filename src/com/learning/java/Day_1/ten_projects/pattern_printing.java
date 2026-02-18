@@ -1,4 +1,4 @@
-package com.learnign.java.ten_projects;
+package com.learning.java.Day_1.ten_projects;
 
 public class pattern_printing {
     public static void main(String[] args) {
